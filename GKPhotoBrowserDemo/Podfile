@@ -18,6 +18,7 @@ target 'GKPhotoBrowserDemo' do
   pod 'SVProgressHUD'
   pod 'TZImagePickerController'
 
+  pod 'LookinServer','~> 1.0.0', :configurations => ['Debug'],:inhibit_warnings => true
 end
 
 post_install do |installer|

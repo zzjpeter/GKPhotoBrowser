@@ -16,6 +16,7 @@ PODS:
     - AFNetworking/NSURLSession
   - GKCover (2.5.5)
   - GKNavigationBarViewController (2.6.3)
+  - LookinServer (1.0.0)
   - SDAutoLayout (2.2.1)
   - SDWebImage (5.9.4):
     - SDWebImage/Core (= 5.9.4)
@@ -35,6 +36,7 @@ DEPENDENCIES:
   - AFNetworking
   - GKCover
   - GKNavigationBarViewController
+  - LookinServer (~> 1.0.0)
   - SDAutoLayout
   - SDWebImage
   - SVProgressHUD
@@ -47,6 +49,7 @@ SPEC REPOS:
     - AFNetworking
     - GKCover
     - GKNavigationBarViewController
+    - LookinServer
     - SDAutoLayout
     - SDWebImage
     - SVProgressHUD
@@ -60,6 +63,7 @@ SPEC CHECKSUMS:
   AFNetworking: 7864c38297c79aaca1500c33288e429c3451fdce
   GKCover: 54663b6ee16ea0b4c0e203a0ffd5a0622223af6e
   GKNavigationBarViewController: d682ec891050fccfd3e6695ee0f3ee2f75970535
+  LookinServer: 0002891cd3cec5e082a910e897dfe71b4f06b89e
   SDAutoLayout: 8bf6b3bbc8b01f775d4defbb4fda2ace805461be
   SDWebImage: b69257f4ab14e9b6a2ef53e910fdf914d8f757c1
   SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
@@ -69,6 +73,6 @@ SPEC CHECKSUMS:
   YYModel: 2a7fdd96aaa4b86a824e26d0c517de8928c04b30
   YYWebImage: 5f7f36aee2ae293f016d418c7d6ba05c4863e928
 
-PODFILE CHECKSUM: fd1e7c6c7ebfbe07519069fc97a4da6759549bf5
+PODFILE CHECKSUM: 0c36b34a11fc94258592a3e61144d44710b4c4d7
 
-COCOAPODS: 1.10.0
+COCOAPODS: 1.8.4

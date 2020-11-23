@@ -182,7 +182,7 @@
             }
         }
         browser.loadStyle = GKLoadingStyleDeterminate;
-//        browser.failStyle       = GKPhotoBrowserFailStyleOnlyImage;
+//        browser.failStyle       = GKPhotoBrowserFailStyleOnlyImage;//-z 显示加载失败图片
         browser.failureText     = @"图片加载失败了，555";
         browser.failureImage    = [UIImage imageNamed:@"error"];
         browser.delegate        = weakSelf;
